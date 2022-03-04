@@ -10,7 +10,7 @@ image_metadata:
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
-title: assn10.pdf modified
+title: assn10.pdf
 uid: e92039c1-a902-2b9b-7800-701a112543e2
 video_files:
   video_captions_file: ''
