@@ -2,6 +2,8 @@
 content_type: page
 title: Assignments
 uid: 8e344ad5-a553-4368-9048-9e95e736657a
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}

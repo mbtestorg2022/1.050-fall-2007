@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: assn7.pdf
 uid: 1de6f617-7ff0-b4ad-09f6-c4f2797d6cbf
+video_metadata:
+  youtube_id: null
 ---

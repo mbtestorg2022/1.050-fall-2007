@@ -2,6 +2,8 @@
 content_type: page
 title: Related Resources
 uid: 4f5c3926-e4d5-6974-7f16-131a6f692568
+video_metadata:
+  youtube_id: null
 ---
 
 MATLAB® Tutorials

@@ -2,6 +2,8 @@
 content_type: page
 title: Lecture Notes
 uid: dec40ff4-e8ca-636f-c6db-d88880914a96
+video_metadata:
+  youtube_id: null
 ---
 
 A significant portion of this course was taught at the blackboard, so the following lecture notes are not intended to fully capture the content of the course. The lecture notes tend to be more detailed in the second half of the course. Lecture summaries are also available for the first half of the course.

@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec30.pdf
 uid: 702704e9-72fd-5a86-05b3-e4c4a7c41e5c
+video_metadata:
+  youtube_id: null
 ---

@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec11.pdf
 uid: 0b893146-c018-337e-497a-76c8f7aaffb6
+video_metadata:
+  youtube_id: null
 ---

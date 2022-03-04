@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec16.pdf
 uid: 873a6628-1579-d2a9-70b6-9fb51ea1610d
+video_metadata:
+  youtube_id: null
 ---

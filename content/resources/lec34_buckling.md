@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec34_buckling.pdf
 uid: b664aab1-195a-41b9-3689-50a3bf51c93c
+video_metadata:
+  youtube_id: null
 ---

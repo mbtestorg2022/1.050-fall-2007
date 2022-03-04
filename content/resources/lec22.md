@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec22.pdf
 uid: e7b029d1-6e1e-2b53-74cb-8482c3fba57f
+video_metadata:
+  youtube_id: null
 ---

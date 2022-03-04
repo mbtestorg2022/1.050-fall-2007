@@ -8,4 +8,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec1.pdf
 uid: 7f91d524-57aa-ef80-93c5-8a43f10a099b
+video_metadata:
+  youtube_id: null
 ---

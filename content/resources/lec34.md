@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec34.pdf
 uid: ec501d2b-0af7-3745-2008-4ee3f20a79bb
+video_metadata:
+  youtube_id: null
 ---

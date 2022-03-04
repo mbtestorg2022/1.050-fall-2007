@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: variables1.pdf
 uid: fceddc7f-413a-a59e-be8f-45c7becd94a1
+video_metadata:
+  youtube_id: null
 ---

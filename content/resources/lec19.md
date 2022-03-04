@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec19.pdf
 uid: a4064fb0-1c42-85ba-2c80-1a8e66000434
+video_metadata:
+  youtube_id: null
 ---

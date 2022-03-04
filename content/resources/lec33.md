@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec33.pdf
 uid: bd534b24-6d92-16f1-2720-659d93934e6c
+video_metadata:
+  youtube_id: null
 ---

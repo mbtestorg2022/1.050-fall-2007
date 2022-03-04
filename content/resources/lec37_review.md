@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec37_review.pdf
 uid: 4721abd8-c8e8-b8c8-181d-e1d93715aaf7
+video_metadata:
+  youtube_id: null
 ---

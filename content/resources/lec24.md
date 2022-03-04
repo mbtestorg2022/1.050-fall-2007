@@ -9,4 +9,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec24.pdf
 uid: 07816e0c-b4eb-c6d3-3241-06e02b58f068
+video_metadata:
+  youtube_id: null
 ---

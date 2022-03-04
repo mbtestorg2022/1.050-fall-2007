@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec15.pdf
 uid: 67c58d49-9d0a-9929-cbd6-38e6e36af58d
+video_metadata:
+  youtube_id: null
 ---

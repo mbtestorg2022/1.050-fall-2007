@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec31.pdf
 uid: 5145526a-6662-05b2-6e52-3e60b2447985
+video_metadata:
+  youtube_id: null
 ---

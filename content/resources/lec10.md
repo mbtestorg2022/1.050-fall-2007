@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec10.pdf
 uid: a0431a76-b3da-ce8f-d97c-eab087512395
+video_metadata:
+  youtube_id: null
 ---

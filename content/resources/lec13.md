@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec13.pdf
 uid: 8deeb8fa-e4ee-23f0-dbc0-331c7bc815a9
+video_metadata:
+  youtube_id: null
 ---

@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec32_clapeyron.pdf
 uid: a772ecdc-f162-44e8-ac8a-7e46422ae8dd
+video_metadata:
+  youtube_id: null
 ---

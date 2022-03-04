@@ -6,4 +6,6 @@ file_type: application/pdf
 resourcetype: Document
 title: summary2.pdf
 uid: fd43440b-b9b9-5859-b6c8-69362a1628b9
+video_metadata:
+  youtube_id: null
 ---

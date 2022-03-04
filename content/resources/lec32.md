@@ -7,4 +7,6 @@ file_type: application/pdf
 resourcetype: Document
 title: lec32.pdf
 uid: 17dbb6a7-318c-a4c0-32d7-95af353a86a3
+video_metadata:
+  youtube_id: null
 ---
