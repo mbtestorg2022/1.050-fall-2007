@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+parent_uid: 8e344ad5-a553-4368-9048-9e95e736657a
 resourcetype: Document
 title: assn10.pdf
 uid: e92039c1-a902-2b9b-7800-701a112543e2
