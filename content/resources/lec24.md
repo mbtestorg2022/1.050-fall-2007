@@ -6,6 +6,7 @@ description: Lecture notes on beam elasticity, derivation of governing, derivati
   and isotropic elasticity.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-050-engineering-mechanics-i-fall-2007/07816e0cb4ebc6d3324106e02b58f068_lec24.pdf
 file_type: application/pdf
+parent_uid: dec40ff4-e8ca-636f-c6db-d88880914a96
 resourcetype: Document
 title: lec24.pdf
 uid: 07816e0c-b4eb-c6d3-3241-06e02b58f068

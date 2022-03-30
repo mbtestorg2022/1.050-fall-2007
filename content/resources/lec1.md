@@ -5,6 +5,7 @@ description: Lecture notes with an introduction to the course and discussion of 
   and material density.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-050-engineering-mechanics-i-fall-2007/7f91d52457aaef8093c58a43f10a099b_lec1.pdf
 file_type: application/pdf
+parent_uid: dec40ff4-e8ca-636f-c6db-d88880914a96
 resourcetype: Document
 title: lec1.pdf
 uid: 7f91d524-57aa-ef80-93c5-8a43f10a099b
