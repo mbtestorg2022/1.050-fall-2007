@@ -1,9 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 4f5c3926-e4d5-6974-7f16-131a6f692568
-video_metadata:
-  youtube_id: null
 ---
 
 MATLAB® Tutorials
@@ -13,11 +13,11 @@ The MATLAB® tutorial and files are courtesy of the course TA, J. Alberto Ortega
 
 MATLAB® Tutorial ([PDF]({{< baseurl >}}/resources/matlab))
 
-Recitation 1 ({{% resource_link "031f44af-aa51-cb5a-1069-76fd55041c55" "M" %}})
+Recitation 1 ([M]({{< baseurl >}}/resources/matlabrecitation))
 
-Recitation 2 ({{% resource_link "181b2ea2-8e84-d9a5-32a7-f72e5fb3d271" "M" %}})
+Recitation 2 ([M]({{< baseurl >}}/resources/matlab_rec2))
 
-Recitation 3 ({{% resource_link "c1b54a03-a8e0-26ae-899e-01663bfe33f2" "M" %}})
+Recitation 3 ([M]({{< baseurl >}}/resources/matlab_rec3))
 
 Papers
 ------
